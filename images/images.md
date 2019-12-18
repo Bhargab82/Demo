@@ -1,4 +1,4 @@
-# This is my Image folder
+# This is my First Repo
 
 
 - Point 1
